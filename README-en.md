@@ -81,8 +81,8 @@ Be creative!
 
 Answer the questions below directly in this `README.md` file of your fork:
 
-1. Selected repository: <SELECTED_REPOSITORY_URL_HERE>
-2. Selected chart: <SELECTED_CHART_IMAGE_HERE>
-3. Explanation: <EXPLANATION_HERE>
+1. Selected repository: https://github.com/fastapi/fastapi
+2. Selected chart: ![Production vs. Test Code Evolution](production_vs_test_files.png)
+3. Explanation: The chart shows the evolution of production and test code in the FastAPI repository. The production code shows an increased growth rate starting from 2023, which might be related to the popularization of the use of LLMs in software development. The test code also shows an increased growth rate starting from 2023, but it is not as pronounced as the production code. This might indicate that the developers of FastAPI are prioritizing the development of new features over testing, which could be a potential risk for the quality of the software. However, it is also possible that the developers are using automated testing tools that do not require as much manual effort to maintain the test code, which could explain the slower growth rate of the test code compared to the production code.
 
 
